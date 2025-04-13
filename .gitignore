@@ -1,0 +1,14 @@
+# Archivos copilados de Java
+*.class
+
+# Carpeta de Copilacion
+bin/
+
+# Archivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos Temporales y Logs
+*.log
+*.tmp
+
